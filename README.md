@@ -1,1 +1,20 @@
 # Films-Online
+movie-streaming-app/
+  backend/
+    server.js
+    movies.json
+    public/trailers/
+      trailer1.mp4
+      trailer2.mp4
+  frontend/
+    src/
+      App.js
+      components/
+        MovieList.js
+        MoviePlayer.js
+      api.js
+    public/
+      ...
+    package.json
+  README.md
+  package.json
